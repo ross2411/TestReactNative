@@ -1,4 +1,5 @@
-Note - this is just something I'm playing with.  It won't be of use to anyone!
+**Note - this is just something I'm playing with.  It won't be of use to anyone!**
+
 
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
